@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 18 13:23:02 2020
+#to check if authenticating has been used or not.
 
-@author: ssuh
-"""
 
 #This script will get html from selenium-request
 #where to start?
