@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 28 09:54:06 2020
+#compile inspected data and 
+#get some inmportant numbers.
 
-@author: ssuh
-"""
+
 import csv
 
 i = 0 
