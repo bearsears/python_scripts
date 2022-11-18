@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  1 14:41:06 2020
-
-@author: ssuh
-"""
+#nice and quick script to update csv data
 
 import csv
 
